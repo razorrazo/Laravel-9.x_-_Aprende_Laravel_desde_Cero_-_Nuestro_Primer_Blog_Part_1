@@ -1,4 +1,4 @@
-# Laravel 9.x - Aprende Laravel desde Cero - Nuestro Primer Blog
+# Laravel 9.x - Learn Laravel from Scratch: Our First Blog
 This repository contains the initial source code for the "Learn Laravel from Scratch: Our First Blog" course.
 
 Clone this repository to start with the same code I started with in this course.
